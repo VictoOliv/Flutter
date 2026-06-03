@@ -1,0 +1,4 @@
+1 - image.netork pega imagem da internet usando URl, .asset pega imagem salva dentro do projeto/app
+2 - MainAxisAllignment controla o alinhamento na direcao principal da column, vertical, crossAxis controla o  alinhamento na direcao lateral
+3 - padding cria espacamento organizado e correto na tela. e mehor que usar espacos no text pois funciona em quaquer tamanho e tela e deixa o odgo mais organizado
+4 - statelesswidget e utilizado quando a tela nao muda depois de criada. sem estado significa que o widget nao precisa atualizar informacoes na tela

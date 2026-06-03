@@ -1,0 +1,11 @@
+Por que agora foi necessário usar um StatefulWidget?
+Qual informação da tela muda quando o botão é pressionado?
+Qual variável foi alterada dentro do setState()?
+O que o setState() faz no Flutter?
+O que poderia acontecer se a variável fosse alterada sem usar setState()?
+
+1- Para poder alterar ou adicionar um dado do app
+2- Aparece na tela, certo! ou errado, dependendo da resposta
+3- As variáveis alteradas dentro do setState foram a mensagemFeedback e a corFeedback.
+4- O setState serve para avisar ao Flutter que alguma informação mudou e que ele precisa atualizar a tela para mostrar essa mudança ao usuário.
+5- Se a variável fosse alterada sem o setState, o valor mudaria apenas na memória do código, mas a tela continuaria igual e o usuário nunca veria a mensagem de certo ou errado mudar.
